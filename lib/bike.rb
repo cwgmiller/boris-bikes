@@ -15,3 +15,4 @@ class Bike
     !@working
   end
 end
+
